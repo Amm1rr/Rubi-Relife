@@ -2,7 +2,7 @@
 
 **نسخه معکوس‌شده Rubi - بدون محدودیت و با امکانات ویژه**
 
-[Mohammad X](https://x.com/m_khani65/) | [Rubi Reversed](https://github.com/amm1rr/rubi-reversed)
+[Mohammad X](https://x.com/m_khani65/) | [Rubi Reversed](https://github.com/amm1rr/rubi-relife)
 
 ## تغییرات اتفاق افتاده
 

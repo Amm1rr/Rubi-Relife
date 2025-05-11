@@ -2,7 +2,7 @@
 
 **Rubi Reversed Edition - Unlocked and Enhanced Features**
 
-[Mohammad X](https://x.com/m_khani65/) | [Rubi Reversed](https://github.com/amm1rr/rubi-reversed)
+[Mohammad X](https://x.com/m_khani65/) | [Rubi Reversed](https://github.com/amm1rr/rubi-relife)
 
 ## What's Changed
 
