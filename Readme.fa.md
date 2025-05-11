@@ -19,8 +19,8 @@
 
 ## راهنمای نصب و استفاده
 
-1. **دانلود و نصب:** فایل نصب [Rubi-v3.2-Setup.exe](https://github.com/amm1rr/rubi-relife/raw/refs/heads/main/Rubi-v3.2-Setup.exe) را دریافت و اجرا کنید.
-2. **نصب کرک:** فایل [ReLife.exe](https://github.com/amm1rr/rubi-relife/raw/refs/heads/main/ReLife.exe) را دریافت و اجرا و جایگزین کنید.
+1. **دانلود و نصب:** فایل نصب [Rubi-v3.2-Setup.exe](https://github.com/Amm1rr/Rubi-Relife/raw/refs/heads/main/Rubi%20v3.2%20-%20Setup.exe) را دریافت و اجرا کنید.
+2. **نصب کرک:** فایل [ReLife.exe](https://github.com/Amm1rr/Rubi-Relife/raw/refs/heads/main/ReLife.exe) را دریافت و اجرا و جایگزین کنید.
 3. **ثبت‌نام / ورود:** با هر اطلاعات دلخواه (ایمیل و رمز عبور جعلی) ثبت‌نام یا وارد شوید.
 4. **استفاده و لذت بردن:** از نسخه کامل و بدون محدودیت Rubi استفاده کنید!
 

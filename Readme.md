@@ -19,7 +19,7 @@
 
 ## Installation and Usage Guide
 
-1.  **Download and Install:** Download and run the setup file [Rubi-v3.2-Setup.exe](https://github.com/amm1rr/rubi-relife/raw/refs/heads/main/Rubi-v3.2-Setup.exe).
+1.  **Download and Install:** Download and run the setup file [Rubi-v3.2-Setup.exe](https://github.com/Amm1rr/Rubi-Relife/raw/refs/heads/main/Rubi%20v3.2%20-%20Setup.exe).
 2.  **Install Crack:** Download and run [ReLife.exe](https://github.com/amm1rr/rubi-relife/raw/refs/heads/main/ReLife.exe) and replace the original file.
 3.  **Sign Up / Log In:** Sign up or log in with any desired information (fake email and password).
 4.  **Use and Enjoy:** Use the full and unrestricted version of Rubi!
